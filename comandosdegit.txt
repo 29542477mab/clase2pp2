@@ -1,0 +1,3 @@
+1Git add .
+2Git commint -m "el mensaje del commit"
+3Git push
