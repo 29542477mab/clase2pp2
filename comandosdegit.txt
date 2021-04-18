@@ -1,3 +1,6 @@
-1Git add .
-2Git commint -m "el mensaje del commit"
-3Git push
+1)Git add .
+2)Git commint -m "el mensaje del commit" 
+3)Git push
+
+Nota:
+Comando git clon se utiliza una unica vez por cada repositorio en cada maquina comando git status se ejecuta las veces que uno quiera.
